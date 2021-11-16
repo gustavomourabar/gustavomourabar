@@ -31,5 +31,7 @@ Vantagens: RÁPIDA, PRECISA e COMPLETA com Garantia de um Trabalho Profissional 
   <a href = "gustavomourabarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-moura-barbosa-a53808187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+        ![Snake animation](https://github.com/gustavomourabar/gustavomourabar/output/github-contribution-grid-snake.svg)
+    
 </div>
-    ![Snake animation](https://github.com/gustavomourabar/gustavomourabar/output/github-contribution-grid-snake.svg)
+
